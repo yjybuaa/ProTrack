@@ -1,5 +1,6 @@
 # ProTrack
-## Citation
+
+### Citation
 We appreciate your support of our work!
 ```bibtex
 @inproceedings{protrack,
