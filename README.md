@@ -1,7 +1,7 @@
 # ProTrack
 ## Citation
 We appreciate your support of our work!
-```
+```bibtex
 @inproceedings{protrack,
   author    = {Jinyu Yang and
                Zhe Li and
